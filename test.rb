@@ -1,8 +1,3 @@
-#code to be written here from code academy excersizes 
-
-
-#more code 
+puts "What is your name?"
 
 #even more and more code
-
-
